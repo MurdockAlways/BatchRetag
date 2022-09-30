@@ -19,3 +19,10 @@ Install MKVToolNix to Default Installation Path [https://mkvtoolnix.download/dow
 3. Edit The Script As A Text, Replace The Fields Mentioned In Above Features Section.
 4. Run The Script.
 5. Your Files Are Successfully Retagged!
+
+### ⚠ Note -
+
+1. Change image.jpg File and Replace With Your Attachment Image Before Use.
+2. Change Te Script According To Your Use By Simply Editing The .bat File as .txt and Change 'GRPNAME' To Your Release Name, or Anything Else.
+3. Feel Free To Play Around With Scripts, Any Doubts or Queries, Ask Down Below :)
+
